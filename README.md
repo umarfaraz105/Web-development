@@ -5,5 +5,5 @@ My web Development related project
    link 🚀>>> https://umarfaraz105.github.io/Web-development/project/
     >>> for  infomation about project check project <<<<
 2.FULL website of model agency
-    >>> link :https://umarfaraz105.github.io/Web-development/full-website/
+    >>> link https://umarfaraz105.github.io/Web-development/full-website/
     >>> check out now
